@@ -1,0 +1,18 @@
+.filterContainer {
+  padding: 20px;
+}
+
+.filterLabelText {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.filterInput {
+  width: 300px;
+  height: 30px;
+
+  font-weight: 500;
+  border-radius: 6px;
+  font-size: 18px;
+}
